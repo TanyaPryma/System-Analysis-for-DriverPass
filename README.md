@@ -1,7 +1,42 @@
-# System-Analysis-for-DriverPass
-System design and business requirements for the DriverPass website
+🚗 **Client**: DriverPass  
+🎯 **Project Goal**: Design a user-friendly web-based system to help future drivers prepare for and pass the DMV test  
 
-    The main goal of the DriverPass project was to design user-friendly system to provide educational and practice materials for future drivers. The DriverPass is a company that wants to increase the percentage of drivers who pass the test at the DMV. The client wanted to create web-based system that offers different packages, online classes, practice tests and instructions.  
-      I think I did well with designing activity diagram, evaluating the system and describing business requirements. I would revise Gantt Charts and class diagram. I think I need more practice on this subject. 
-      There are many ways to interpret the user’s needs, user research and interviews, surveys are some of the techniques that used to understand the people we are creating systems for. We need to explore customers needs, expectations and goals in order to design successful product. Based on received information , we can create diagrams, charts that will help to understand the designing process. 
-        I would approach designing software by following all of the steps that we performed in this class. Collecting requirements from the client, analyzing it, breaking down into sections, prioritizing based on importance of the subject - theses are some steps I believe will lead to the success. 
+---
+
+### 📚 Project Overview:
+- 🏢 DriverPass is focused on increasing the success rate of DMV test takers  
+- 🖥️ Developed a web-based platform offering:
+  - Multiple packages
+  - Online classes
+  - Practice tests
+  - Instructional content
+
+---
+
+### ✅ What Went Well:
+- 🧩 Designed clear **activity diagrams**
+- 🧠 Evaluated system performance and user flow
+- 📄 Accurately described **business requirements**
+
+---
+
+### 🛠️ Areas for Improvement:
+- 📊 Gantt Charts — need more clarity and better time breakdown  
+- 🧱 Class Diagram — would benefit from more practice and refinement
+
+---
+
+### 👥 User-Centered Design Approach:
+- 📋 Employed **user research methods** such as:
+  - Interviews  
+  - Surveys  
+- 🧭 Explored user **needs**, **goals**, and **expectations**  
+- 📈 Created diagrams and charts to visualize and guide the design process  
+
+---
+
+### 💡 Software Design Process:
+- 🔍 Collected requirements directly from the client  
+- ✍️ Analyzed and broke them down into actionable sections  
+- 🧮 Prioritized features based on importance and project scope  
+- 📐 Followed a structured, iterative approach learned in class to ensure product success
